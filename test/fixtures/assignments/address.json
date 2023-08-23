@@ -1,0 +1,37 @@
+{
+  "data": {
+    "id": 2449,
+    "customer_id": 2050,
+    "type": "MAILING",
+    "use": "address",
+    "street": "Fuhlsbüttlerstr",
+    "street_addon": "405",
+    "zip": "22309",
+    "city": "Hamburg",
+    "province": "Hamburg",
+    "country": "DE",
+    "lat": "53.6097700000",
+    "lng": "10.0504490000",
+    "distance_to_company": 273,
+    "name": "test",
+    "name_addon": null,
+    "phone": null,
+    "mobile": null,
+    "mobile_alternative": null,
+    "mail": "info@craftb-oxx.de",
+    "mail_alternative": "info@craftboxx.de",
+    "source": null,
+    "source_external_id": null,
+    "created_at": "2019-07-11T09:14:39.000000Z",
+    "updated_at": "2023-05-08T14:36:53.000000Z",
+    "full_address": "test, Fuhlsbüttlerstr, 22309 Hamburg",
+    "first_line": "Fuhlsbüttlerstr, 22309 Hamburg",
+    "second_line": "test",
+    "icon": "fa-home",
+    "label": "Fuhlsbüttlerstr, 22309 Hamburg",
+    "sub_label": "test",
+    "interfaces": [
+      "icon"
+    ]
+  }
+}
